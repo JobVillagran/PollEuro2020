@@ -1,0 +1,2 @@
+rootProject.name = "PollEuro2021"
+include ':app'
